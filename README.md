@@ -1,5 +1,5 @@
 <h1>Deskripsi Website Mini-Proyek</h1>
 
-<p>Proyek ini digunakan untuk pengumpulan data-data informasi rekaman klinik dengan berbasis Website</p>
+<p>Proyek ini digunakan untuk pengumpulan data-data informasi rekaman klinik dengan berbasis Website menggunakan Laravel</p>
 <br>
-<p>Proyek ini juga adalah tugas UTS dari Praktikum Pemrograman Berbasis Web </p>
+<p>Proyek ini juga adalah tugas UTS dari Praktikum Pemrograman Berbasis Web</p>
